@@ -1,0 +1,30 @@
+
+.number {
+    font-family: "Menlo", "DejaVu Sans Mono", "Liberation Mono", "Consolas", "Ubuntu Mono", "Courier New", "andale mono", "lucida console", monospace;
+    color: #c0341d;
+    background-color: #fbe5e1;
+}
+
+
+.plot_graph_bg {
+    background-image: url('/images/backgrounds/hip-square-mod.png');
+    border-radius: 10px;
+}
+
+.icon-circle {
+    border: solid 2px;
+    border-radius: 50%;
+}
+
+.icon-muted {
+    opacity: 0.5;
+}
+
+.circle {
+    width: 50px;
+    height: 20px;
+    border-radius: 10px;
+    background: #000;
+}
+
+

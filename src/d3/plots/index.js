@@ -1,0 +1,12 @@
+export { default as Barplot } from './barplot';
+export { default as Boxplot } from './boxplot';
+export { default as Chromosome } from './chromosome';
+export { default as Dnaplot } from './dnaplot';
+export { default as MHNGraph } from './mhngraph';
+export { default as ForceDirectedGraph } from './force-directed-graph';
+export { default as Heatmap } from './heatmap';
+export { default as KaplanMeierPlot } from './kaplanmeier';
+export { default as MacrophagesPlot } from './macrophages';
+export { default as Piechart } from './piechart';
+export { default as QQPlot } from './qqplot';
+export { default as ScatterPlot } from './scatter';

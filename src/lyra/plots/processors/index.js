@@ -1,0 +1,14 @@
+export { default as BarplotProcessor } from './barplot';
+export { default as GroupedBarplotProcessor } from './grouped-barplot';
+export { default as BoxplotProcessor } from './boxplot';
+export { default as CytobandProcessor } from './cytoband';
+export { default as DnaplotProcessor } from './dnaplot';
+export { default as MhnGraphProcessor } from './mhngraph';
+export { default as HeatmapProcessor } from './heatmap';
+export { default as HistogramProcessor } from './histogram';
+export { default as InteractionProcessor } from './interaction';
+export { default as KaplanMeierProcessor } from './kaplanmeier';
+export { default as MacrophagesProcessor } from './macrophages';
+export { default as PiechartProcessor } from './piechart';
+export { default as QQPlotProcessor } from './qqplot';
+export { default as ScatterPlotProcessor } from './scatter';
